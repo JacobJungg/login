@@ -18,7 +18,7 @@ export default function CreateAccountEducator() {
     <div className="flex min-h-screen items-center justify-center bg-[#001C22]">
       <Card className="w-[456px] h-[580px] flex flex-col justify-center p-4 border border-[#0A3D44] rounded-lg shadow-[0_4px_5px_rgba(0,0,0,0.25)] bg-[#001C22]">
         <CardHeader className="space-y-1">
-          <CardTitle className="text-[24px] font-semibold leading-[32px] text-[#F3F4F6]">Start teaching with <span className="text-[#00FFA3]">Sonical.ly</span></CardTitle>
+          <CardTitle className="text-[24px] font-semibold leading-[32px] text-[#F3F4F6]">Start teaching with <span className="text-[#2EFFD9]">Sonical.ly</span></CardTitle>
           <p className="text-sm text-[#F3F4F6]">Want to sign up as a player? <Link href="#" className="underline">Click here.</Link></p>
         </CardHeader>
         <CardContent className="flex-1 grid gap-2 mt-2">
