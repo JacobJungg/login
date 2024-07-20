@@ -1,8 +1,5 @@
 ## Sonical.ly Authentication Screen
-
-
-
-imports
+Imports
 
 ```bash
 npx shadcn-ui@latest add button
